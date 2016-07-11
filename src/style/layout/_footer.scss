@@ -1,0 +1,22 @@
+.page-footer{
+  background: #f3f3f3;
+  &__inner{
+    display: flex;
+    width: 1100px;
+    margin: 0 auto;
+  }
+  &__part{
+    flex: 1;
+    padding: 25px 0;
+    &_left{
+
+    }
+    &_right{
+      text-align: right;
+    }
+	a {
+		 color: #777987;
+		 text-decoration: none;
+	}
+  }
+}

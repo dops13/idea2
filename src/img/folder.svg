@@ -1,0 +1,228 @@
+<svg id="Шар_1" data-name="Шар 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 175.57 129.91">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0a1239;
+        opacity: 0.6;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3, .cls-5, .cls-6 {
+        fill: none;
+        stroke: #0a1239;
+        stroke-width: 2px;
+      }
+
+      .cls-3 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        fill: #a3fb31;
+      }
+
+      .cls-5, .cls-6 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-6 {
+        opacity: 0.3;
+      }
+    </style>
+  </defs>
+  <title>folder</title>
+  <g>
+    <circle class="cls-1" cx="676.75" cy="171.05" r="0.86" transform="translate(-174.1 747.57) rotate(-81.18)"/>
+    <circle class="cls-1" cx="680.75" cy="171.05" r="0.86" transform="translate(-170.71 751.52) rotate(-81.18)"/>
+    <circle class="cls-1" cx="684.75" cy="171.05" r="0.86" transform="translate(-167.32 755.47) rotate(-81.18)"/>
+    <circle class="cls-1" cx="688.75" cy="171.05" r="0.86" transform="translate(-163.94 759.43) rotate(-81.18)"/>
+    <circle class="cls-1" cx="692.75" cy="171.05" r="0.86" transform="translate(-160.55 763.38) rotate(-81.18)"/>
+    <circle class="cls-1" cx="696.75" cy="171.05" r="0.86" transform="translate(-157.16 767.33) rotate(-81.18)"/>
+    <circle class="cls-1" cx="676.75" cy="175.05" r="0.86" transform="translate(-178.05 750.96) rotate(-81.18)"/>
+    <circle class="cls-1" cx="680.75" cy="175.05" r="0.86" transform="translate(-174.66 754.91) rotate(-81.18)"/>
+    <circle class="cls-1" cx="684.75" cy="175.05" r="0.86" transform="translate(-171.27 758.86) rotate(-81.18)"/>
+    <circle class="cls-1" cx="688.75" cy="175.05" r="0.86" transform="translate(-167.89 762.81) rotate(-81.18)"/>
+    <circle class="cls-1" cx="692.75" cy="175.05" r="0.86" transform="translate(-164.5 766.77) rotate(-81.18)"/>
+    <circle class="cls-1" cx="696.75" cy="175.05" r="0.86" transform="translate(-161.11 770.72) rotate(-81.18)"/>
+    <circle class="cls-1" cx="676.75" cy="179.05" r="0.86" transform="translate(-182 754.34) rotate(-81.18)"/>
+    <circle class="cls-1" cx="680.75" cy="179.05" r="0.86" transform="translate(-178.61 758.3) rotate(-81.18)"/>
+    <circle class="cls-1" cx="684.75" cy="179.05" r="0.86" transform="translate(-175.23 762.25) rotate(-81.18)"/>
+    <circle class="cls-1" cx="688.75" cy="179.05" r="0.86" transform="translate(-171.84 766.2) rotate(-81.18)"/>
+    <circle class="cls-1" cx="692.75" cy="179.05" r="0.86" transform="translate(-168.45 770.15) rotate(-81.18)"/>
+    <circle class="cls-1" cx="696.75" cy="179.05" r="0.86" transform="translate(-165.07 774.11) rotate(-81.18)"/>
+    <circle class="cls-1" cx="676.75" cy="183.05" r="0.86" transform="translate(-185.95 757.73) rotate(-81.18)"/>
+    <circle class="cls-1" cx="680.75" cy="183.05" r="0.86" transform="translate(-182.57 761.68) rotate(-81.18)"/>
+    <circle class="cls-1" cx="684.75" cy="183.05" r="0.86" transform="translate(-179.18 765.63) rotate(-81.18)"/>
+    <circle class="cls-1" cx="688.75" cy="183.05" r="0.86" transform="translate(-175.79 769.59) rotate(-81.18)"/>
+    <circle class="cls-1" cx="692.75" cy="183.05" r="0.86" transform="translate(-172.41 773.54) rotate(-81.18)"/>
+    <circle class="cls-1" cx="696.75" cy="183.05" r="0.86" transform="translate(-169.02 777.49) rotate(-81.18)"/>
+    <circle class="cls-1" cx="676.75" cy="187.05" r="0.86" transform="translate(-189.91 761.12) rotate(-81.18)"/>
+    <circle class="cls-1" cx="680.75" cy="187.05" r="0.86" transform="translate(-186.52 765.07) rotate(-81.18)"/>
+    <circle class="cls-1" cx="684.75" cy="187.05" r="0.86" transform="translate(-183.13 769.02) rotate(-81.18)"/>
+    <circle class="cls-1" cx="688.75" cy="187.05" r="0.86" transform="translate(-179.75 772.97) rotate(-81.18)"/>
+    <circle class="cls-1" cx="692.75" cy="187.05" r="0.86" transform="translate(-176.36 776.93) rotate(-81.18)"/>
+    <circle class="cls-1" cx="696.75" cy="187.05" r="0.86" transform="translate(-172.97 780.88) rotate(-81.18)"/>
+    <circle class="cls-1" cx="676.75" cy="191.05" r="0.86" transform="translate(-193.86 764.5) rotate(-81.18)"/>
+    <circle class="cls-1" cx="680.75" cy="191.05" r="0.86" transform="translate(-190.47 768.45) rotate(-81.18)"/>
+    <circle class="cls-1" cx="684.75" cy="191.05" r="0.86" transform="translate(-187.09 772.41) rotate(-81.18)"/>
+    <circle class="cls-1" cx="688.75" cy="191.05" r="0.86" transform="translate(-183.7 776.36) rotate(-81.18)"/>
+    <circle class="cls-1" cx="692.75" cy="191.05" r="0.86" transform="translate(-180.31 780.31) rotate(-81.18)"/>
+    <circle class="cls-1" cx="696.75" cy="191.05" r="0.86" transform="translate(-176.93 784.27) rotate(-81.18)"/>
+    <circle class="cls-1" cx="676.75" cy="195.05" r="0.86" transform="translate(-197.81 767.89) rotate(-81.18)"/>
+    <circle class="cls-1" cx="680.75" cy="195.05" r="0.86" transform="translate(-194.42 771.84) rotate(-81.18)"/>
+    <circle class="cls-1" cx="684.75" cy="195.05" r="0.86" transform="translate(-191.04 775.79) rotate(-81.18)"/>
+    <circle class="cls-1" cx="688.75" cy="195.05" r="0.86" transform="translate(-187.65 779.75) rotate(-81.18)"/>
+    <circle class="cls-1" cx="692.75" cy="195.05" r="0.86" transform="translate(-184.26 783.7) rotate(-81.18)"/>
+    <circle class="cls-1" cx="696.75" cy="195.05" r="0.86" transform="translate(-180.88 787.65) rotate(-81.18)"/>
+  </g>
+  <g>
+    <circle class="cls-1" cx="592.75" cy="107.05" r="0.86" transform="translate(-181.97 610.38) rotate(-81.18)"/>
+    <circle class="cls-1" cx="596.75" cy="107.05" r="0.86" transform="translate(-178.58 614.33) rotate(-81.18)"/>
+    <circle class="cls-1" cx="600.75" cy="107.05" r="0.86" transform="translate(-175.2 618.28) rotate(-81.18)"/>
+    <circle class="cls-1" cx="604.75" cy="107.05" r="0.86" transform="translate(-171.81 622.23) rotate(-81.18)"/>
+    <circle class="cls-1" cx="608.75" cy="107.05" r="0.86" transform="translate(-168.42 626.19) rotate(-81.18)"/>
+    <circle class="cls-1" cx="612.75" cy="107.05" r="0.86" transform="translate(-165.04 630.14) rotate(-81.18)"/>
+    <circle class="cls-1" cx="592.75" cy="111.05" r="0.86" transform="translate(-185.92 613.76) rotate(-81.18)"/>
+    <circle class="cls-1" cx="596.75" cy="111.05" r="0.86" transform="translate(-182.54 617.72) rotate(-81.18)"/>
+    <circle class="cls-1" cx="600.75" cy="111.05" r="0.86" transform="translate(-179.15 621.67) rotate(-81.18)"/>
+    <circle class="cls-1" cx="604.75" cy="111.05" r="0.86" transform="translate(-175.76 625.62) rotate(-81.18)"/>
+    <circle class="cls-1" cx="608.75" cy="111.05" r="0.86" transform="translate(-172.38 629.57) rotate(-81.18)"/>
+    <circle class="cls-1" cx="612.75" cy="111.05" r="0.86" transform="translate(-168.99 633.53) rotate(-81.18)"/>
+    <circle class="cls-1" cx="592.75" cy="115.05" r="0.86" transform="translate(-189.88 617.15) rotate(-81.18)"/>
+    <circle class="cls-1" cx="596.75" cy="115.05" r="0.86" transform="translate(-186.49 621.1) rotate(-81.18)"/>
+    <circle class="cls-1" cx="600.75" cy="115.05" r="0.86" transform="translate(-183.1 625.06) rotate(-81.18)"/>
+    <circle class="cls-1" cx="604.75" cy="115.05" r="0.86" transform="translate(-179.72 629.01) rotate(-81.18)"/>
+    <circle class="cls-1" cx="608.75" cy="115.05" r="0.86" transform="translate(-176.33 632.96) rotate(-81.18)"/>
+    <circle class="cls-1" cx="612.75" cy="115.05" r="0.86" transform="translate(-172.94 636.91) rotate(-81.18)"/>
+    <circle class="cls-1" cx="592.75" cy="119.05" r="0.86" transform="translate(-193.83 620.54) rotate(-81.18)"/>
+    <circle class="cls-1" cx="596.75" cy="119.05" r="0.86" transform="translate(-190.44 624.49) rotate(-81.18)"/>
+    <circle class="cls-1" cx="600.75" cy="119.05" r="0.86" transform="translate(-187.06 628.44) rotate(-81.18)"/>
+    <circle class="cls-1" cx="604.75" cy="119.05" r="0.86" transform="translate(-183.67 632.39) rotate(-81.18)"/>
+    <circle class="cls-1" cx="608.75" cy="119.05" r="0.86" transform="translate(-180.28 636.35) rotate(-81.18)"/>
+    <circle class="cls-1" cx="612.75" cy="119.05" r="0.86" transform="translate(-176.9 640.3) rotate(-81.18)"/>
+    <circle class="cls-1" cx="592.75" cy="123.05" r="0.86" transform="translate(-197.78 623.92) rotate(-81.18)"/>
+    <circle class="cls-1" cx="596.75" cy="123.05" r="0.86" transform="translate(-194.4 627.88) rotate(-81.18)"/>
+    <circle class="cls-1" cx="600.75" cy="123.05" r="0.86" transform="translate(-191.01 631.83) rotate(-81.18)"/>
+    <circle class="cls-1" cx="604.75" cy="123.05" r="0.86" transform="translate(-187.62 635.78) rotate(-81.18)"/>
+    <circle class="cls-1" cx="608.75" cy="123.05" r="0.86" transform="translate(-184.24 639.73) rotate(-81.18)"/>
+    <circle class="cls-1" cx="612.75" cy="123.05" r="0.86" transform="translate(-180.85 643.69) rotate(-81.18)"/>
+    <circle class="cls-1" cx="592.75" cy="127.05" r="0.86" transform="translate(-201.73 627.31) rotate(-81.18)"/>
+    <circle class="cls-1" cx="596.75" cy="127.05" r="0.86" transform="translate(-198.35 631.26) rotate(-81.18)"/>
+    <circle class="cls-1" cx="600.75" cy="127.05" r="0.86" transform="translate(-194.96 635.22) rotate(-81.18)"/>
+    <circle class="cls-1" cx="604.75" cy="127.05" r="0.86" transform="translate(-191.57 639.17) rotate(-81.18)"/>
+    <circle class="cls-1" cx="608.75" cy="127.05" r="0.86" transform="translate(-188.19 643.12) rotate(-81.18)"/>
+    <circle class="cls-1" cx="612.75" cy="127.05" r="0.86" transform="translate(-184.8 647.07) rotate(-81.18)"/>
+    <circle class="cls-1" cx="592.75" cy="131.05" r="0.86" transform="translate(-205.69 630.7) rotate(-81.18)"/>
+    <circle class="cls-1" cx="596.75" cy="131.05" r="0.86" transform="translate(-202.3 634.65) rotate(-81.18)"/>
+    <circle class="cls-1" cx="600.75" cy="131.05" r="0.86" transform="translate(-198.91 638.6) rotate(-81.18)"/>
+    <circle class="cls-1" cx="604.75" cy="131.05" r="0.86" transform="translate(-195.53 642.55) rotate(-81.18)"/>
+    <circle class="cls-1" cx="608.75" cy="131.05" r="0.86" transform="translate(-192.14 646.51) rotate(-81.18)"/>
+    <circle class="cls-1" cx="612.75" cy="131.05" r="0.86" transform="translate(-188.75 650.46) rotate(-81.18)"/>
+  </g>
+  <circle class="cls-1" cx="736.75" cy="133.05" r="0.86" transform="translate(-85.75 774.69) rotate(-81.18)"/>
+  <circle class="cls-1" cx="740.75" cy="129.05" r="0.86" transform="translate(-78.41 775.25) rotate(-81.18)"/>
+  <circle class="cls-1" cx="744.75" cy="126.05" r="0.86" transform="translate(-72.05 776.67) rotate(-81.18)"/>
+  <circle class="cls-1" cx="748.75" cy="122.05" r="0.86" transform="translate(-64.72 777.23) rotate(-81.18)"/>
+  <circle class="cls-1" cx="752.75" cy="118.05" r="0.86" transform="translate(-57.38 777.8) rotate(-81.18)"/>
+  <rect class="cls-2" x="71.85" y="15.1" width="72.82" height="91.17" rx="1.34" ry="1.34"/>
+  <rect class="cls-2" x="64" y="5.27" width="88.52" height="110.84" rx="1.34" ry="1.34"/>
+  <g>
+    <circle class="cls-1" cx="84.4" cy="110.44" r="0.52"/>
+    <circle class="cls-1" cx="86.48" cy="110.44" r="0.52"/>
+    <circle class="cls-1" cx="88.56" cy="110.44" r="0.52"/>
+    <circle class="cls-1" cx="90.65" cy="110.44" r="0.52"/>
+    <circle class="cls-1" cx="92.73" cy="110.44" r="0.52"/>
+    <circle class="cls-1" cx="94.81" cy="110.44" r="0.52"/>
+    <circle class="cls-1" cx="96.9" cy="110.44" r="0.52"/>
+    <circle class="cls-1" cx="98.98" cy="110.44" r="0.52"/>
+    <circle class="cls-1" cx="101.06" cy="110.44" r="0.52"/>
+    <circle class="cls-1" cx="103.15" cy="110.44" r="0.52"/>
+    <circle class="cls-1" cx="105.23" cy="110.44" r="0.52"/>
+    <circle class="cls-1" cx="107.31" cy="110.44" r="0.52"/>
+    <circle class="cls-1" cx="84.4" cy="112.44" r="0.52"/>
+    <circle class="cls-1" cx="86.48" cy="112.44" r="0.52"/>
+    <circle class="cls-1" cx="88.56" cy="112.44" r="0.52"/>
+    <circle class="cls-1" cx="90.65" cy="112.44" r="0.52"/>
+    <circle class="cls-1" cx="92.73" cy="112.44" r="0.52"/>
+    <circle class="cls-1" cx="94.81" cy="112.44" r="0.52"/>
+    <circle class="cls-1" cx="96.9" cy="112.44" r="0.52"/>
+    <circle class="cls-1" cx="98.98" cy="112.44" r="0.52"/>
+    <circle class="cls-1" cx="101.06" cy="112.44" r="0.52"/>
+    <circle class="cls-1" cx="103.15" cy="112.44" r="0.52"/>
+    <circle class="cls-1" cx="105.23" cy="112.44" r="0.52"/>
+    <circle class="cls-1" cx="107.31" cy="112.44" r="0.52"/>
+    <circle class="cls-1" cx="109.4" cy="110.44" r="0.52"/>
+    <circle class="cls-1" cx="111.48" cy="110.44" r="0.52"/>
+    <circle class="cls-1" cx="113.56" cy="110.44" r="0.52"/>
+    <circle class="cls-1" cx="115.65" cy="110.44" r="0.52"/>
+    <circle class="cls-1" cx="117.73" cy="110.44" r="0.52"/>
+    <circle class="cls-1" cx="119.81" cy="110.44" r="0.52"/>
+    <circle class="cls-1" cx="121.9" cy="110.44" r="0.52"/>
+    <circle class="cls-1" cx="123.98" cy="110.44" r="0.52"/>
+    <circle class="cls-1" cx="126.06" cy="110.44" r="0.52"/>
+    <circle class="cls-1" cx="128.15" cy="110.44" r="0.52"/>
+    <circle class="cls-1" cx="130.23" cy="110.44" r="0.52"/>
+    <circle class="cls-1" cx="132.31" cy="110.44" r="0.52"/>
+    <circle class="cls-1" cx="109.4" cy="112.44" r="0.52"/>
+    <circle class="cls-1" cx="111.48" cy="112.44" r="0.52"/>
+    <circle class="cls-1" cx="113.56" cy="112.44" r="0.52"/>
+    <circle class="cls-1" cx="115.65" cy="112.44" r="0.52"/>
+    <circle class="cls-1" cx="117.73" cy="112.44" r="0.52"/>
+    <circle class="cls-1" cx="119.81" cy="112.44" r="0.52"/>
+    <circle class="cls-1" cx="121.9" cy="112.44" r="0.52"/>
+    <circle class="cls-1" cx="123.98" cy="112.44" r="0.52"/>
+    <circle class="cls-1" cx="126.06" cy="112.44" r="0.52"/>
+    <circle class="cls-1" cx="128.15" cy="112.44" r="0.52"/>
+    <circle class="cls-1" cx="130.23" cy="112.44" r="0.52"/>
+    <circle class="cls-1" cx="132.31" cy="112.44" r="0.52"/>
+  </g>
+  <rect class="cls-3" x="71.85" y="15.1" width="72.82" height="91.17" rx="1.34" ry="1.34"/>
+  <rect class="cls-3" x="64" y="5.27" width="88.52" height="110.84" rx="1.34" ry="1.34"/>
+  <rect class="cls-2" x="1" y="57.13" width="47.1" height="58.97" rx="1.34" ry="1.34"/>
+  <rect class="cls-3" x="1" y="57.13" width="47.1" height="58.97" rx="1.34" ry="1.34"/>
+  <circle class="cls-4" cx="90.88" cy="30.82" r="6.55"/>
+  <circle class="cls-3" cx="86.33" cy="34.46" r="6.55"/>
+  <circle class="cls-4" cx="90.88" cy="58.11" r="6.55"/>
+  <circle class="cls-3" cx="86.33" cy="61.75" r="6.55"/>
+  <circle class="cls-4" cx="90.88" cy="85.4" r="6.55"/>
+  <circle class="cls-4" cx="33.88" cy="84.4" r="6.55"/>
+  <circle class="cls-4" cx="14.88" cy="102.4" r="6.55"/>
+  <circle class="cls-3" cx="86.33" cy="89.04" r="6.55"/>
+  <line class="cls-5" x1="102.96" y1="31" x2="128.96" y2="31"/>
+  <line class="cls-6" x1="102.96" y1="36" x2="113.96" y2="36"/>
+  <line class="cls-5" x1="85.95" y1="36.4" x2="87.67" y2="32.88"/>
+  <line class="cls-5" x1="84.52" y1="35.72" x2="85.93" y2="36.41"/>
+  <line class="cls-5" x1="85.95" y1="63.4" x2="87.67" y2="59.88"/>
+  <line class="cls-5" x1="84.52" y1="62.72" x2="85.93" y2="63.41"/>
+  <line class="cls-5" x1="85.95" y1="90.4" x2="87.67" y2="86.88"/>
+  <line class="cls-5" x1="84.52" y1="89.72" x2="85.93" y2="90.41"/>
+  <line class="cls-5" x1="102.96" y1="59" x2="128.96" y2="59"/>
+  <line class="cls-6" x1="102.96" y1="64" x2="113.96" y2="64"/>
+  <line class="cls-5" x1="102.96" y1="87" x2="128.96" y2="87"/>
+  <line class="cls-6" x1="102.96" y1="92" x2="113.96" y2="92"/>
+  <path class="cls-3" d="M661,71h0a4,4,0,0,1,4-4h42.55a4,4,0,0,1,4,4h0" transform="translate(-578.04 -66)"/>
+  <g>
+    <path class="cls-2" d="M718.9,141.06l31.93-27.28a4.89,4.89,0,0,0,.54-6.87h0a4.89,4.89,0,0,0-6.87-.54l-31.93,27.28Z" transform="translate(-578.04 -66)"/>
+    <path class="cls-3" d="M718.9,141.06l31.93-27.28a4.89,4.89,0,0,0,.54-6.87h0a4.89,4.89,0,0,0-6.87-.54l-31.93,27.28Z" transform="translate(-578.04 -66)"/>
+    <polyline class="cls-5" points="134.53 67.65 130.75 77.28 140.86 75.06"/>
+    <line class="cls-5" x1="132.41" y1="73.07" x2="135.01" y2="76.11"/>
+    <line class="cls-5" x1="164.68" y1="41.56" x2="171.17" y2="49.16"/>
+  </g>
+  <line class="cls-3" x1="0.96" y1="72" x2="47.96" y2="72"/>
+  <line class="cls-3" x1="10.96" y1="77" x2="10.96" y2="110"/>
+  <line class="cls-3" x1="19.96" y1="77" x2="19.96" y2="110"/>
+  <line class="cls-3" x1="28.96" y1="77" x2="28.96" y2="110"/>
+  <line class="cls-3" x1="37.96" y1="77" x2="37.96" y2="110"/>
+  <line class="cls-3" x1="42.96" y1="80" x2="5.96" y2="80"/>
+  <line class="cls-3" x1="42.96" y1="89" x2="5.96" y2="89"/>
+  <line class="cls-3" x1="42.96" y1="98" x2="5.96" y2="98"/>
+  <line class="cls-3" x1="42.96" y1="107" x2="5.96" y2="107"/>
+  <path class="cls-2" d="M7.84,51.63h5.62a0.88,0.88,0,0,1,.88.88v7.38a0.87,0.87,0,0,1-.87.87H7.84A0.87,0.87,0,0,1,7,59.88V52.5a0.88,0.88,0,0,1,.88-0.88Z"/>
+  <path class="cls-3" d="M7.84,51.63h5.62a0.88,0.88,0,0,1,.88.88v7.38a0.87,0.87,0,0,1-.87.87H7.84A0.87,0.87,0,0,1,7,59.88V52.5a0.88,0.88,0,0,1,.88-0.88Z"/>
+  <path class="cls-2" d="M35.6,51.63h5.62a0.88,0.88,0,0,1,.88.88v7.38a0.87,0.87,0,0,1-.87.87H35.6a0.87,0.87,0,0,1-.87-0.87V52.5A0.88,0.88,0,0,1,35.6,51.63Z"/>
+  <path class="cls-3" d="M35.6,51.63h5.62a0.88,0.88,0,0,1,.88.88v7.38a0.87,0.87,0,0,1-.87.87H35.6a0.87,0.87,0,0,1-.87-0.87V52.5A0.88,0.88,0,0,1,35.6,51.63Z"/>
+</svg>

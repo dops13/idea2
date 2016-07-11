@@ -1,0 +1,75 @@
+.page__part_info{
+  //min-height: 820px;
+  position: relative;
+  min-height: 720px;
+  margin-bottom: 80px;
+}
+
+.partners-img{
+  margin-bottom: 35px;
+  img {
+	 vertical-align: middle;
+  }
+}
+
+.navigator{
+  position: absolute;
+  display: block;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  border-top: 1px solid #e6e7eb;
+  border-bottom: 1px solid #e6e7eb;
+  &__inner{
+    display: flex;
+    width: 1100px;
+    margin: 0 auto;
+  }
+  &__item{
+    padding-bottom: 20px;
+    position: relative;
+    flex: 1;
+    border-left: 1px solid #e6e7eb;
+    h3{
+      margin: 0 0 20px;
+      text-align: center;
+      @include font-size(30px);
+      font-weight: 400;
+    }
+    p{
+      margin: 0;
+      text-align: center;
+      @include font-size(15px);
+      line-height: 27px;
+      color: #777987;
+    }
+    &:first-child{
+      border-left: none;
+    }
+  }
+  &__img{
+    height: 180px;
+    img{
+      display: block;
+      margin: 0 auto;
+    }
+    &_room{
+      padding: 20px 0;
+      img{
+        width: 296px;
+      }
+    }
+    &_folder{
+      padding: 30px 0;
+      img{
+        width: 178px;
+      }
+    }
+    &_house{
+      padding: 35px 0;
+      img{
+        width: 175px;
+      }
+    }
+  }
+}

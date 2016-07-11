@@ -1,0 +1,552 @@
+@media screen and (max-width: 1200px) {
+	 /*part 1*/
+	 .page {
+		 overflow: hidden;
+	 }
+	 .page-header__inner {
+		 width: 688px;
+	 }
+	 .nav-general__logo {padding: 16px;}
+	 .base-container {
+		 min-width: 688px;
+		 max-width: 688px;
+		 width: 688px;
+		 margin-left: -344px;
+	 }
+	 .page__part_slider {
+		 margin-top: 62px;
+	     .base-container {
+			 overflow: visible;
+		 }
+		 .animate-slide {
+			 top: 208px;
+			 transform: scale(1);
+		 }
+	 }
+	 .idea-first {
+		 top: 12px;
+		 right: auto;
+		 left: 50%;
+		 margin-left: -286px;
+	 }
+	 .bubble_1 {
+		 right: -35px;
+	 }
+	 .bubble_2 {
+		 right: -5px;
+	 }
+	 .bubble_3 {
+		 left: -35px;
+	 }
+	 .bubble_4 {
+		 left: 35px;
+	 }
+	 
+	 /*part_2*/
+	 .projects-wrapper {
+		 width: 688px;
+	 }
+	 .project {
+		 width: 688px;
+		 flex-direction: column-reverse;
+	 }
+	 .project__right {
+	     margin-right: 145px;
+	 }
+	 .projects-info-wrap {
+		 top: 165px;
+		 right: 64px;
+		 margin-top: 0px;
+	 }
+	 .project__big-name {
+		 left: 50px;
+	 }
+	 .project__left {
+		 margin: 0 0 0 48px;
+		 padding: 40px 0 70px 0;
+		 text-align: left;
+		 width: auto;
+		 float: none;
+		 position: relative;
+	 }
+	 .project__more {
+	     position: absolute;
+		 top: 40px;
+		 right: 0px;
+	 }
+	 .page__part_projects:after {
+		 width: 464px;
+		 margin-left: -232px;
+	 }
+	 .navigator {
+		 position: relative;
+	 }
+	 .navigator__inner {
+		 display: block;
+		 width: 100%;
+		 text-align: center;
+		 font-size: 0px;
+	 }
+	 .navigator__item {
+		 display: inline-block;
+		 vertical-align: top;
+		 width: 50%;
+	 }
+	 .navigator__item:nth-child(1), .navigator__item:nth-child(2) {
+		 border-bottom: 1px solid #e6e7eb;
+	 }
+	 .navigator__item:nth-child(3) {
+		 border-right: 1px solid #e6e7eb;
+	 }
+	 
+	 /*part_3*/
+	 .page__part_quality {
+		 height: auto;
+	 }
+	 .page__part_quality .base-container {
+		 overflow: visible;
+	 }
+	 .bubble_7 {
+		 top: 930px;
+		 left: -40px;
+	 }
+	 .bubble_8 {
+		 top: 920px;
+		 left: 15px;
+	 }
+	 .bubble_5 {
+		 top: 700px;
+	 }
+	 .bubble_6 {
+		 top: 690px;
+	 }
+	 .quality-nav-wrap {
+		 width: 688px;
+		 text-align: center;
+	 }
+	 .quality-nav {
+		 display: inline-block;
+		 vertical-align: top;
+		 margin: 0;
+		 width: auto;
+	 }
+	 .quality-info-wrap {
+		 width: 688px;
+		 min-height: 342px;
+	 }
+	 .quality-info {
+		 margin: 0 0 0 62px;
+	 }
+	 .idea-fouth {
+		 right: 0px;
+		 top: 300px;
+	 }
+	 .building-svg {
+		 position: relative;
+		 bottom: auto;
+		 left: auto;
+		 margin: -70px 0 0 0;
+	 }
+	 
+	 /*part4*/
+	 .page__part_flats hr {
+		 display: none;
+	 }
+	 .choice-of-flats {
+		 width: 688px;
+		 flex-direction: column-reverse;
+	 }
+	 .choice-of-flats__right {
+		 padding: 0;
+	 }
+	 .choice-of-flats__info h2:before {
+		 width: 65px;
+		 height: 65px;
+		 border-radius: 100%;
+		 margin-left: -32.5px;
+		 top: -10px;
+	 }
+	 .apartment-plan-wraper {
+		 margin-bottom: 20px;
+	 }
+	 .choice-of-flats__left {
+		 padding: 0;
+		 border: none;
+	 }
+	 .choice-of-flats__left > p {
+		 margin: 0 0 40px 0;
+	 }
+	 .apartment-tenants {
+		 margin: 0 auto;
+	 }
+	 
+	 /*Footer*/
+	 .page-footer__inner {
+		 width: 688px;
+	 }
+}
+
+@media screen and (max-width: 740px) {
+	
+	 /*header*/
+	 .page-header {
+		 padding-top: 19px;
+	 }
+	 .page-header__inner {
+		 width: 282px;
+	 }
+	 .nav-projects__title {
+		 text-align: right;
+	 }
+	 .base-container {
+		 min-width: 282px;
+		 max-width: 282px;
+		 width: 282px;
+		 margin-left: -141px;
+	 }
+	 .nav-general__logo__inner {
+		 transform: sclae(0.8);
+		 -webkit-transform: scale(0.8);
+	 }
+	 .nav-projects__logo__inner {
+		 transform: sclae(0.8);
+		 -webkit-transform: scale(0.8);
+		 margin-top: 25px;
+	 }
+	 .nav-general__txt {
+		 font-size: 15px;
+	 }
+	 .nav-projects__title {
+		 text-align: right;
+	 }
+	 .nav-projects__txt {
+		 font-size: 15px;
+	 }
+	 .nav-projects__logo__part:nth-child(5) {
+		 top: -9px;
+		 left: 18px;
+	 }
+	 .nav-projects__logo__part:nth-child(6) {
+		 bottom: -8px;
+		 left: 19px;
+	 }
+	 
+	 /*part1*/
+	 .page__part_slider {
+		 height: 480px;
+		 margin-bottom: 50px;
+	 }
+	 .city-title {
+		 width: 282px;
+		 margin: 0 auto;
+	 }
+	 .city-title__item h2 {
+		 padding-top: 30px;
+		 font-size: 28px;
+		 line-height: 38px;
+		 margin-bottom: 0px;
+	 }
+	 .city-title__item p {
+		 display: none;
+	 }
+	 .page__part_slider .animate-slide {
+		 display: none;
+	 }
+	 .idea-first {
+		 display: none;
+	 }
+	 .bubble_1, .bubble_2, .bubble_3, .bubble_4 {
+		 display: none;
+	 }
+	 .city {
+		 padding: 0;
+		 height: 480px;
+		 background-size: auto 70%;
+	 }
+	 
+	 /*part2*/
+	 .section-header {
+		 padding: 65px 0 0 0;
+		 margin: 0 auto 20px auto;
+		 width: 96%;
+		 max-width: 320px;
+	 }
+	 .section-header__number {
+		 font-size: 85px;
+		 height: 60px;
+	 }
+	 .section-header__title {
+		 font-size: 28px;
+		 margin: 0 0 5px 0;
+	 }
+	 .section-header__sub {
+		 font-size: 12px;
+	 }
+	 .section-header__sub br {
+		 display: none;
+	 }
+	 
+	 .page__part_projects {
+		 margin-bottom: 50px;
+		 min-height: 730px;
+	 }
+	 .projects-wrapper {
+		 width: 282px;
+	 }
+	 .project {
+		 width: 282px;
+	 }
+	 .project__right {
+		 margin: 0;
+		 width: 282px;
+		 height: 282px;
+	 }
+	 .project__img img {
+		 max-width: 100%;
+	 }
+	 .project__big-name {
+		 font-size: 44px;
+		 line-height: normal;
+		 bottom: -32px;
+		 left: 0px;
+	 }
+	 .project__left {
+		 margin: 0;
+		 padding: 115px 0 0 0;
+		 text-align: center;
+	 }
+	 .project__more {
+		 position: relative;
+		 top: auto;
+		 right: auto;
+	 }
+	 .project__name {
+		 font-size: 20px;
+		 margin: 0 0 10px 0;
+	 }
+	 .project__adress {
+		 font-size: 12px;
+		 margin: 0 0 15px 0;
+	 }
+	 .projects-info-wrap {
+		 top: 315px;
+		 right: 0px;
+		 width: 100%;
+		 height: 54px;
+		 padding: 0;
+		 margin: 0;
+		 line-height: 54px;
+		 text-align: center;
+	 }
+	 .projects-info__btn {
+		 position: relative;
+		 top: auto;
+		 left: auto;
+		 right: auto;
+		 bottom: auto;
+		 display: inline-block!important;
+		 vertical-align: top;
+	 }
+	 .projects-info {
+		 width: 56px;
+		 line-height: 54px;
+		 display: inline-block;
+		 vertical-align: top;
+	 }
+	 .projects-info__btn_prev {
+		 transform: rotate(-90deg);
+	 }
+	 .projects-info__btn_next {
+		 transform: rotate(-90deg);
+	 }
+	 .page__part_projects:after {
+		 width: 282px;
+		 margin-left: -141px;
+	 }
+	 
+	 /*part3*/
+	 .page__part_info {
+		 margin-bottom: 50px;
+	 }
+	 .partners-img img {
+		 max-width: 262px;
+	 }
+	 .navigator {
+		 width: 282px;
+		 margin: 0 auto;
+	 }
+	 .navigator .navigator__item {
+		 width: 100%;
+		 border: none!important;
+		 padding-bottom: 20px;
+	 }
+	 .navigator__item {
+		 h3 {
+			 font-size: 24px;
+			 margin-bottom: 0 0 8px 0;
+		 }
+		 p {
+			 font-size: 12px;
+			 line-height: 21px;
+		 }
+	 }
+	 .navigator__img_room, .navigator__img_folder, .navigator__img_house {
+		 padding: 20px 0 10px 0;
+		 height: auto;
+	 }
+	 .navigator__img img {
+		 transform: scale(0.85);
+		 -webkit-transform: scale(0.85);
+	 }
+	 
+	 /*part4*/
+	 .idea-fouth {
+		 font-size: 139px;
+		 right: auto;
+		 left: 0px;
+		 top: 280px;
+	 }
+	 .bubble_7, .bubble_8 {
+		 display: none;
+	 }
+	 .quality-nav-wrap {
+		 width: 282px;
+		 margin-bottom: 30px;
+	 }
+	 .quality-nav__ln {
+		 padding: 10px 14px;
+		 font-size: 12.5px;
+	 }
+	 .quality-info-wrap {
+		 width: 282px;
+		 min-height: 272px;
+	 }
+	 .quality-info {
+		 margin: 0;
+		 width: auto;
+	 }
+	 .quality-info {
+		 h3 {
+			 display: none;
+		 }
+		 p {
+			 font-size: 12px;
+			 line-height: 21px;
+			 margin-bottom: 20px;
+		 }
+	 }
+	 .building-svg_1, .building-svg_2 {
+		 height: 354px;
+		 top: 0px;
+		 margin: 0px;
+		 svg {
+			 width: 800px;
+			 height: auto!important;
+			 margin: -220px 0 0 -396px;
+			 transform: scale(0.575);
+			 position: absolute;
+			 left: 50%;
+		 }
+	 }
+	 .building-svg_3 {
+		 height: 354px;
+		 top: 0px;
+		 margin: 0px;
+		 svg {
+			 width: 800px;
+			 height: auto!important;
+			 margin: -180px 0 0 -396px;
+			 transform: scale(0.575);
+			 position: absolute;
+			 left: 50%;
+		 }
+	 }
+	 .bubble_5 {
+		 width: 45px;
+		 height: 45px;
+		 top: 580px;
+		 right: -20px;
+	 }
+	 .bubble_6 {
+		 right: 10px;
+		 top: 605px;
+		 width: 22px;
+		 height: 22px;
+	 }
+	 
+	 /*part5*/
+	 .flats-nav {
+		 margin-bottom: 50px;
+	 }
+	 .choice-of-flats {
+		 width: 282px;
+	 }
+	 .choice-of-flats__info {
+		 h2 {
+			 font-size: 27px;
+		 }
+	 }
+	 .choice-of-flats__info h2:before {
+		 width: 57px;
+		 height: 57px;
+		 border-radius: 100%;
+		 margin-left: -28.5px;
+		 top: -14px;
+	 }
+	 .apartment-plan-wraper {
+		 width: 282px;
+		 padding: 0;
+	 }
+	 .apartment-plan__btn_prev {
+		 left: 0px;
+		 z-index: 2;
+	 }
+	 .apartment-plan__btn_next {
+		 right: 0px;
+		 z-index: 2;
+	 }
+	 .apartment-plan__item img {
+		 max-width: 100%;
+	 }
+	 
+	 .choice-of-flats__left > h2 {
+		 font-size: 20px;
+		 margin-bottom: 12px;
+	 }
+	 .choice-of-flats__left > p {
+		 font-size: 12px;
+		 margin-bottom: 30px;
+	 }
+	 .apartment-tenants {
+		 width: 282px;
+	 }
+	 .apartment-tenants__item {
+		 width: 141px;
+		 margin-bottom: 62px;
+	 }
+	 .apartment-tenants__item__img {
+		 margin-bottom: 10px;
+	 }
+	 .apartment-tenants__item__add-user, .apartment-tenants__item__delete-user {
+		 left: 5px;
+		 top: 35px;
+		 width: 25px;
+		 height: 25px;
+		 line-height: 25px;
+		 font-size: 24px;
+		 border-radius: 100%;
+	 }
+	 .apartment-tenants__item__delete-user {
+		 right: 5px;
+		 left: auto;
+	 }
+	 
+	 /*footer*/
+	 .page-footer__inner {
+		 width: 282px;
+	 }
+	 .page-footer__part {
+		 padding: 10px 0;
+		 font-size: 12px;
+	 }
+}
