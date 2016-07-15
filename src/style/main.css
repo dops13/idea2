@@ -776,57 +776,25 @@ List classes
     background: #ced0d7; }
 
 .projects {
-  font-size: 0px;
-  width: 110%; }
+  font-size: 0px; }
 
 .project {
   display: inline-block;
   vertical-align: top;
-  width: 350px;
-  margin: 0 24px 60px 0;
-  text-align: center; }
-  .project:hover img {
-    transform: scale(1.1); }
+  width: 350px; }
   .project__img {
     position: relative;
-    font-size: 0px;
-    z-index: 100;
-    margin: 0 0 18px 0;
-    overflow: hidden; }
+    z-index: 100; }
     .project__img img {
-      max-width: 100%;
-      transition: 0.25s ease;
-      transform: scale(1); }
+      display: block;
+      margin: 0 auto; }
   .project__name {
-    margin: 0 0 10px;
-    font-size: 30px; }
-    .project__name a {
-      color: #0a1239;
-      text-decoration: none; }
+    margin: 0 0 20px;
+    font-size: 24px;
+    font-size: 1.5rem;
+    text-transform: uppercase; }
   .project__adress {
-    margin: 0 0 15px 0;
-    font-size: 15px;
-    color: rgba(10, 18, 57, 0.7); }
-  .project__price {
-    display: inline-block;
-    vertical-align: top;
-    position: relative;
-    font-size: 20px;
-    font-weight: 300;
-    color: #0a1239; }
-    .project__price::before {
-      content: '';
-      position: absolute;
-      top: -3px;
-      left: 15px;
-      width: 30px;
-      height: 30px;
-      border-radius: 100%;
-      background: #a3fb34;
-      z-index: 2; }
-    .project__price span {
-      position: relative;
-      z-index: 3; }
+    margin: 0 0 20px; }
 
 .page__part_info {
   position: relative;

@@ -42,17 +42,6 @@ $(".nav-projects__logo").clickOutsideThisElement(function () {
 
 
 $(document).ready(function(){
-    $('.projects').slick({
-        slidesToShow: 1,
-        slidesToScroll: 1,
-        autoplay: false,
-        infinite: true,
-        fade: true,
-        //vertical: true,
-        //verticalSwiping: true,
-        prevArrow: $("#btn-prev"),
-        nextArrow: $("#btn-next")
-    });
     $('.apartment-plan').slick({
         slidesToShow: 1,
         dots: false,
