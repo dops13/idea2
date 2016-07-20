@@ -176,6 +176,7 @@ List classes
   left: 0;
   right: 0;
   padding: 25px 0 0;
+  height: 90px;
   z-index: 9000; }
   .page-header__inner {
     margin: 0 auto;
@@ -184,6 +185,8 @@ List classes
     float: left; }
   .page-header__part_right {
     float: right; }
+  .page-header.filled {
+    background: #fff; }
 
 .nav-general {
   width: 140px;

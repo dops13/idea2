@@ -4,6 +4,7 @@
   left: 0;
   right: 0;
   padding: 25px 0 0;
+  height: 90px;
   z-index: 9000;
   &__inner{
     margin:  0 auto;
@@ -16,6 +17,9 @@
     &_right{
       float: right;
     }
+  }
+  &.filled {
+	 background: #fff;
   }
 }
 

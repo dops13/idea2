@@ -42,7 +42,21 @@ $(".nav-projects__logo").clickOutsideThisElement(function () {
 
 
 $(document).ready(function(){
-    $('.apartment-plan').slick({
+    /*menu filled*/
+	if($(window).scrollTop()>50){
+		$('.page-header').addClass('filled');
+	} else {
+		$('.page-header').removeClass('filled');
+	}
+	$(window).scroll(function(){
+		if($(window).scrollTop()>50){
+			$('.page-header').addClass('filled');
+		} else {
+			$('.page-header').removeClass('filled');
+		}
+	});
+	
+	$('.apartment-plan').slick({
         slidesToShow: 1,
         dots: false,
         slidesToScroll: 1,
@@ -139,7 +153,7 @@ $('.page__part_quality').fixedscroll({
 });
 
 var width = $(window).width();
-
+/*
 var topNavVal = 100;
 
 if(width<740) {
@@ -153,6 +167,7 @@ $(window).scroll(function() {
       $(".nav-general__txt, .nav-projects__txt").removeClass('show');
     }
 });
+*/
 
 var count1 = 0;
 var count2 = 0;
