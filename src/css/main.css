@@ -1608,8 +1608,7 @@ List classes
     width: 688px; }
 
   .project {
-    width: 688px;
-    flex-direction: column-reverse; }
+    width: 332px; }
 
   .project__right {
     margin-right: 145px; }
