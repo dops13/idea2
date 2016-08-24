@@ -1326,6 +1326,89 @@ List classes
 #corridor-inner {
   opacity: 0; }
 
+.page__p404 {
+  position: relative;
+  display: table;
+  table-layout: fixed;
+  width: 100%;
+  height: 100%; }
+
+.p404 {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center; }
+  .p404__num {
+    font-size: 264px;
+    font-weight: 900;
+    line-height: 220px;
+    color: #f7f7f8;
+    margin: 0 0 20px 0; }
+  .p404__title {
+    margin: 0 0 20px 0;
+    font-size: 40px;
+    font-size: 2.5rem;
+    line-height: 1.4;
+    color: #0a1239; }
+  .p404__desc {
+    margin: 0 0 20px 0;
+    font-size: 15px;
+    font-size: 0.9375rem; }
+  .p404__btn {
+    display: inline-block;
+    vertical-align: top;
+    padding: 0 43px;
+    height: 48px;
+    line-height: 48px;
+    border-radius: 24px;
+    background: #2e47bb;
+    text-decoration: none;
+    color: #fff;
+    cursor: pointer;
+    border: none; }
+
+.bubbles .bubble {
+  border-radius: 100%;
+  position: absolute; }
+  .bubbles .bubble.green {
+    background: #a3fc32; }
+  .bubbles .bubble.blue {
+    background: #3047bb; }
+  .bubbles .bubble_1_1 {
+    width: 270px;
+    height: 270px;
+    left: -135px;
+    bottom: -135px; }
+  .bubbles .bubble_1_2 {
+    width: 18px;
+    height: 18px;
+    bottom: 54px;
+    left: 177px; }
+  .bubbles .bubble_2_1 {
+    width: 68px;
+    height: 68px;
+    right: 166px;
+    bottom: 36px; }
+  .bubbles .bubble_2_2 {
+    width: 37px;
+    height: 37px;
+    right: 110px;
+    bottom: 86px; }
+  .bubbles .bubble_3_1 {
+    width: 67px;
+    height: 67px;
+    left: 18%;
+    top: 34%; }
+  .bubbles .bubble_4_1 {
+    width: 37px;
+    height: 37px;
+    right: 18%;
+    top: 30%; }
+  .bubbles .bubble_4_2 {
+    width: 10px;
+    height: 10px;
+    right: 17%;
+    top: 29%; }
+
 /*
 * тАФ PAGES тАФ
 */
@@ -1753,7 +1836,17 @@ List classes
 
   /*Footer*/
   .page-footer__inner {
-    width: 688px; } }
+    width: 688px; }
+
+  /*404*/
+  .bubbles .bubble_3_1 {
+    left: 8%; }
+
+  .bubbles .bubble_4_1 {
+    right: 12%; }
+
+  .bubbles .bubble_4_2 {
+    right: 11%; } }
 @media screen and (max-width: 740px) {
   /*header*/
   .page-header {
@@ -2096,6 +2189,39 @@ List classes
 
   .page-footer__part {
     padding: 10px 0;
-    font-size: 12px; } }
+    font-size: 12px; }
+
+  /*404*/
+  .p404__num {
+    font-size: 160px;
+    line-height: 160px; }
+
+  .p404__title {
+    font-size: 20px;
+    font-size: 1.5rem; }
+
+  .bubbles .bubble_3_1 {
+    left: -50px; }
+
+  .bubbles .bubble_4_1 {
+    right: -28px; }
+
+  .bubbles .bubble_4_2 {
+    display: none; }
+
+  .bubbles .bubble_1_1 {
+    left: -190px;
+    bottom: -190px; }
+
+  .bubbles .bubble_1_2 {
+    left: 76px;
+    bottom: 20px; }
+
+  .bubbles .bubble_2_1 {
+    display: none; }
+
+  .bubbles .bubble_2_2 {
+    bottom: 22px;
+    right: 22px; } }
 
 /*# sourceMappingURL=main.css.map */

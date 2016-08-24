@@ -183,6 +183,11 @@
 	 .page-footer__inner {
 		 width: 688px;
 	 }
+	 
+	 /*404*/
+	 .bubbles .bubble_3_1 {left: 8%;}
+	 .bubbles .bubble_4_1 {right: 12%;}
+	 .bubbles .bubble_4_2 {right: 11%;}
 }
 
 @media screen and (max-width: 740px) {
@@ -548,4 +553,16 @@
 		 padding: 10px 0;
 		 font-size: 12px;
 	 }
+	 
+	 /*404*/
+	 .p404__num {font-size: 160px; line-height: 160px;}
+	 .p404__title {font-size: 20px; font-size: 1.5rem;}
+	 .bubbles .bubble_3_1 {left: -50px;}
+	 .bubbles .bubble_4_1 {right: -28px;}
+	 .bubbles .bubble_4_2 {display: none;}
+	 .bubbles .bubble_1_1 {left: -190px; bottom: -190px;}
+	 .bubbles .bubble_1_2 {left: 76px; bottom: 20px;}
+	 .bubbles .bubble_2_1 {display: none;}
+	 .bubbles .bubble_2_2 {bottom: 22px; right: 22px;}
+	 
 }
