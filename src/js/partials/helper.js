@@ -81,9 +81,6 @@ $(document).ready(function(){
     $('.flats-nav').on('click', '.flats-nav__ln', function () {
         $('.apartment-plan').slick('slickGoTo', $(this).attr('data-flat'));
     });
-	
-	/*404*/
-	$('.page__p404').css('min-height', $(window).height()+'px')
 });
 
 

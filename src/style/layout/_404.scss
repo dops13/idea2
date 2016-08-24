@@ -1,15 +1,21 @@
 .page__p404{
-	position: relative;
-	display: table;
-	table-layout: fixed;
+	position: absolute;
+	top: 0px;
+	left: 0px;
 	width: 100%;
 	height: 100%;
 }
 
 .p404 {
-	display: table-cell;
-	vertical-align: middle;
-	text-align: center;
+	display: table;
+	table-layout: fixed;
+	width: 100%;
+	height: 100%;
+	&_inner {
+		display: table-cell;
+		vertical-align: middle;
+		text-align: center;
+	}
 	&__num{
 		font-size: 264px;
 		font-weight: 900;
